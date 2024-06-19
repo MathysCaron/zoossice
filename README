@@ -1,3 +1,31 @@
+Voici notre Zoo, le nom de notre zoo est : Zoossice
+
+Notre groupe :
+- Mathys Caron
+- Antoine Cousin
+
+On a utilisé live share afin de travailler en même temps sur les mêmes fichiers, donc antoine cousin n'a pas de commit dans la branche develop.
+
+On peut y retrouver des animaux, enclos et prévoir des visites
+
+La structure de celle-ci est :
+- models
+    - Animal
+    - Enclos
+    - Visite
+- services
+    - AnimalService
+    - EnclosService
+    - VisiteService
+- tests
+    - AnimalService.test
+    - EnclosService.test
+    - VisiteService.test
+
+pour lancer les tests il suffit de faire un "npm test"
+
+Voici le sujet :
+
 Le sujet pour aujourd'hui, on va faire un Zoo : 
 
 Règles de gestion :
